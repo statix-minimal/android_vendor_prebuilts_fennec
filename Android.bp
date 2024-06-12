@@ -1,0 +1,9 @@
+android_app_import {
+        name: "Fennec",
+        owner: "mozilla",
+        apk: "org.mozilla.fennec.apk",
+        certificate: "platform",
+        dex_preopt: {
+                enabled: false,
+        },
+}
